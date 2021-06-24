@@ -1,0 +1,126 @@
+.headerBar {
+    font-size: 14px;
+    color: rgba(0, 0, 0, .70);
+    height: 50px;
+    font-family: arial, sans-serif;
+    text-align: right;
+    padding-right: 1px;
+}
+
+.headerContent {
+    float: right;
+    width: 50px;
+    padding-top: 13px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+
+.headerImage {
+    float: right;
+    text-align: right;
+    width: 45px;
+    height: 45px;
+}
+
+.main {
+    margin-top: 6%;
+    margin-left: 480px;
+}
+
+
+.inputFrame {
+    border: 5px solid #fa4141;
+    border-radius: 35px;
+    height: 50px;
+    width: 900px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+    background:left no-repeat url(https://cdn.icon-icons.com/icons2/351/PNG/256/Magnifier_36308.png);
+    background-size: 38px 38px;
+
+
+
+
+}
+.inputImage {
+    margin-left: 220px;
+    margin-bottom: -70px;
+
+}
+
+.buttons{
+    margin: 11px 4px;
+    margin-left: 780px;
+}
+
+.buttonStyle{
+    background-color: #f6ffef;
+    border: 1px solid #066706;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 50px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.footerBar {
+    float: left;
+    width: 97%;
+    margin-top: 81px;
+    background: #f3f3f3;
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0, 0, 0, .54);
+    height: 56px;
+    white-space: nowrap;
+}
+
+.Country {
+    height: 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 16px;
+    font-family: arial, sans-serif;
+}
+
+.footerContentLeft {
+    float: left;
+    padding-right: 50px;
+    font-size: 14px;
+    white-space: nowrap;
+    font-family: arial, sans-serif;
+}
+
+.footerContentRight{
+    float: right;
+    padding-right: 25px;
+    font-size: 14px;
+    white-space: nowrap;
+    font-family: arial, sans-serif;
+}
+
+.footerElements {
+    padding-top: 10px;
+}
+
+
+.headerContentLeft {
+    float: left;
+    padding-right: 50px;
+    font-size: 14px;
+    white-space: nowrap;
+    font-family: arial, sans-serif;
+}
+
+.massive{
+    padding-left: 55px;
+}

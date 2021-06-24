@@ -1,0 +1,28 @@
+body {
+    background-color: #35836a;
+    user-select: none;
+}
+
+.container {
+    display: grid;
+    grid-gap: 4px;
+    background-color: #b0a6a6;
+    padding: 4px;
+    border-radius: 3px;
+    max-width: 504px;
+}
+
+.input {
+    width: 500px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+    outline: none;
+    text-align: left;
+}
+.item {
+    background-color: #ffffff;
+    width: 500px;
+    height: 60px;
+    font-size: 20px;
+}
